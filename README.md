@@ -1,4 +1,4 @@
-# 👋 Greetings, fellow coder! I'm [Your Name], a passionate developer on a quest for digital adventures. 🚀✨
+# 👋 Greetings, fellow coder! I'm Sanjib Barakoti, a passionate developer on a quest for digital adventures. 🚀✨
 
 ## 💻 Tech Wizardry
 
