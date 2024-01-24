@@ -3,7 +3,7 @@
 I'm Sanjib Barakoti, a passionate developer with expertise in front-end and back-end technologies. Here's a glimpse of my skill set:
 
 ## Skills
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 ### Frontend
 - HTML/HTML5
 - CSS/CSS3
