@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Sanjib Barakoti], a passionate developer with expertise in front-end and back-end technologies. Here's a glimpse of my skill set:
+I'm Sanjib Barakoti, a passionate developer with expertise in front-end and back-end technologies. Here's a glimpse of my skill set:
 
 ## Skills
 
