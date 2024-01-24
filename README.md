@@ -5,26 +5,19 @@ I'm Sanjib Barakoti, a passionate developer with expertise in front-end and back
 ## Skills
 
 ### Frontend
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,p5js&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,p5js&perline=10)](https://skillicons.dev)
 
 ### Backend
-- Node
-- Express.js
-- Python
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,py&perline=6)](https://skillicons.dev)
 ### Database
-- MongoDB
-- MySQL
-- PostgreSQL
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=6)](https://skillicons.dev)
 ### Source Control
-- GIT
-- GitHub
+
 [![My Skills](https://skillicons.dev/icons?i=git,github&perline=6)](https://skillicons.dev)
 ### Other Languages
-- C
-- C++
-- Matlab
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,matlab&perline=6)](https://skillicons.dev)
 
 <!--
@@ -38,7 +31,7 @@ Here are some of the projects I've worked on:
 -->
 ## GitHub Stats
 
-![sanjib-12 GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![sanjib-12 GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjib-12&show_icons=true&theme=radical)
 
 
 ## Connect with Me
