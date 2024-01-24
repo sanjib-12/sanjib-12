@@ -33,6 +33,8 @@ Here are some of the projects I've worked on:
 
 ![sanjib-12 GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjib-12&show_icons=true&theme=radical)
 
+## WakeTime
+[![sanjib-12 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/sanjib-12/github-readme-stats)
 
 ## Connect with Me
 
