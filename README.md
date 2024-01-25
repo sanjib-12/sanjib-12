@@ -29,13 +29,14 @@ Here are some of the projects I've worked on:
 2. [Project 2](link-to-project-2): Brief description.
 3. [Project 3](link-to-project-3): Brief description.
 -->
+<!--
 ## GitHub Stats
 
 ![sanjib-12 GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjib-12&show_icons=true&theme=radical)
 
 ## WakeTime
 [![sanjib-12 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjib-12)](https://github.com/sanjib-12/github-readme-stats)
-
+-->
 ## Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/sanjib-barakoti)
