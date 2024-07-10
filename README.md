@@ -4,7 +4,14 @@
 
 # Hi there! 👋
 
-I'm Sanjib Barakoti, a passionate developer with expertise in front-end and back-end technologies. Here's a glimpse of my skill set:
+I'm Sanjib Barakoti, a passionate developer with expertise in front-end and back-end technologies.
+
+
+* 🌍  I'm based in Toronto ON 🇨🇦
+* 🖥️  See my portfolio at [sanjib](https://sanjib-12.github.io/portfolio/)
+* ✉️  You can contact me at [sanjibbarakoti@gmail.com](mailto:sanjibbarakoti@gmail.com)
+* 🤝  I'm open to collaborating on interesting projects
+
 
 ## Skills
 
