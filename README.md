@@ -1,3 +1,7 @@
+<p align="center">
+	<img align="center" style="margin-top: 15px; width: 100%"  src="banner.gif">
+</p>
+
 # Hi there! 👋
 
 I'm Sanjib Barakoti, a passionate developer with expertise in front-end and back-end technologies. Here's a glimpse of my skill set:
