@@ -32,10 +32,10 @@ I'm Sanjib Barakoti, a passionate developer with expertise in front-end and back
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,matlab&perline=6)](https://skillicons.dev)
 
 
-
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib-12&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjib-12&layout=compact)
-<!--
+
 ## Projects
 
 Here are some of the projects I've worked on:
