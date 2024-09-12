@@ -59,6 +59,8 @@ Here are some of the projects I've worked on:
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding! 🚀
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjib-12&label=Profile%20views&color=0e75b6&style=flat" alt="sanjib-12" /> </p>
+
 <!--
 ### Hi there 👋
 
