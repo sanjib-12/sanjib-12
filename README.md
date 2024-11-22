@@ -15,10 +15,8 @@ I'm Sanjib Barakoti, a passionate developer with expertise in front-end and back
 
 ## Skills
 
-### Frontend
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,p5js&perline=10)](https://skillicons.dev)
 
-### Backend
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,p5js&perline=10)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,py&perline=6)](https://skillicons.dev)
 ### Database
